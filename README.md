@@ -22,7 +22,7 @@ Diwali is one of the most significant festivals in India, and businesses often s
 
 ## Data Source
 
-The data used for this analysis is available in the `data/` directory. It includes information about customer demographics, product categories, and sales transactions.
+The data set contact me. It includes information about customer demographics, product categories, and sales transactions.
 
 ## Analysis Process
 
